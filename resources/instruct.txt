@@ -1,0 +1,44 @@
+~~~~~~APPLICATION GUIDELINES~~~~~~
+
+THIS GAME REQUIRES TWO COMPUTERS AND TWO PLAYERS!!!
+
+JOINING
+   1)  Decide who will be playing as a client and who will be playing
+       as a server.
+   2)  The client must copy the IP address of the server into the text
+       box above the "Play as Client" button. (The IP address is listed on
+       the top of the main menu.)
+   3)  The server must press "Play as Server"
+   4)  The client must press "Play as Client" after the
+       server has pressed "Play as Server" (press while server displays 
+       loading screen)
+PLAYING
+   1)  The client has the first move and is color white.
+   2)  The server is color black.
+   3)  While hovering over a piece, the game will show you
+       all possible moves you can make for that piece.
+   4)  To move a piece, you click and drag it onto a
+       tile.
+   5)  To exit the game press the ESC button.
+   
+IF YOU ENCOUNTER ANY PROBLEMS OR BUGS TRY PRESSING "ESC"
+IF THAT DOES NOT WORK, RESTART THE PROGRAM.
+
+HOW TO PLAY CHESS
+	The main objective in chess is to destroy the other player's king
+	while protecting yours at all costs. There are many tactics and 
+	methods to achieve this, these involve using your pieces correctly and 
+	carefully. The list of your pieces and their moves is as follows.
+	
+PIECES
+	1) Pawn 
+	2) Jumping Pawn
+	3) Rook
+	4) Knight
+	5) Bishop
+	6) King 
+	7) Queen
+	
+VISIT THIS SITE FOR MORE INFO
+
+http://www.chess.com/learn-how-to-play-chess 
